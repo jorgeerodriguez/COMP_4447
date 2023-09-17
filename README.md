@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # jorgeerodriguez
 # ver 1
-=======
 # COMP_4447
 # new code....
 # updated in Git Gub
@@ -9,6 +7,5 @@
 # now we have addedd a new branch version_2
 #
 #
-#
-
->>>>>>> 2bdde9a18d0f86410ef7ae2a70b58ed94b10e901
+# Cleaning Version Control 
+#--------------------------------
